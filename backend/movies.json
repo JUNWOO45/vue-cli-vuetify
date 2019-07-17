@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "알라딘",
+    "year": 2019,
+    "director": "가이 리치",
+    "poster": "http://img.cgv.co.kr/Movie/Thumbnail/Poster/000081/81478/81478_1000.jpg"
+  },
+  {
+    "id": 2,
+    "name": "스파이더맨-파 프롬 홈",
+    "year": 2019,
+    "director": "존 왓츠",
+    "poster": "http://img.cgv.co.kr/Movie/Thumbnail/Poster/000081/81619/81619_1000.jpg"
+  },
+  {
+    "id": 3,
+    "name": "토이 스토리4",
+    "year": 2019,
+    "director": "조시 쿨리",
+    "poster": "http://img.cgv.co.kr/Movie/Thumbnail/Poster/000081/81907/81907_1000.jpg"
+  },
+  {
+    "id": 4,
+    "name": "기생충",
+    "year": 2019,
+    "director": "봉준호",
+    "poster": "http://img.cgv.co.kr/Movie/Thumbnail/Poster/000081/81774/81774_1000.jpg"
+  }
+]
