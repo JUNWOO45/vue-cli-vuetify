@@ -4,27 +4,31 @@
     "name": "알라딘",
     "year": 2019,
     "director": "가이 리치",
-    "poster": "http://img.cgv.co.kr/Movie/Thumbnail/Poster/000081/81478/81478_1000.jpg"
+    "poster": "http://img.cgv.co.kr/Movie/Thumbnail/Poster/000081/81478/81478_1000.jpg",
+    "description": "머나먼 사막 속 신비의 아그라바 왕국의 시대. 좀도둑 ‘알라딘’은 마법사 ‘자파’의 의뢰로 마법 램프를 찾아 나섰다가 주인에게 세 가지 소원을 들어주는 지니를 만나게 되고, 자스민 공주의 마음을 얻으려다 생각도 못했던 모험에 휘말리게 되는데…"
   },
   {
     "id": 2,
     "name": "스파이더맨-파 프롬 홈",
     "year": 2019,
     "director": "존 왓츠",
-    "poster": "http://img.cgv.co.kr/Movie/Thumbnail/Poster/000081/81619/81619_1000.jpg"
+    "poster": "http://img.cgv.co.kr/Movie/Thumbnail/Poster/000081/81619/81619_1000.jpg",
+    "description": "'엔드게임' 이후 변화된 세상, 스파이더맨 ‘피터 파커’는 학교 친구들과 유럽 여행을 떠나게 된다. 그런 그의 앞에 ‘닉 퓨리’가 등장해 도움을 요청하고…"
   },
   {
     "id": 3,
     "name": "토이 스토리4",
     "year": 2019,
     "director": "조시 쿨리",
-    "poster": "http://img.cgv.co.kr/Movie/Thumbnail/Poster/000081/81907/81907_1000.jpg"
+    "poster": "http://img.cgv.co.kr/Movie/Thumbnail/Poster/000081/81907/81907_1000.jpg",
+    "description": "장난감의 운명을 거부하고 떠난 새 친구 ‘포키’를 찾기 위해 길 위에 나선 ‘우디’는 우연히 오랜 친구 ‘보핍’을 만나고 그녀를 통해 새로운 세상에 눈을 뜨게 된다. 한편, ‘버즈’와 친구들은 사라진 ‘우디’와 ‘포키’를 찾아 세상 밖 위험천만한 모험을 떠나게 되는데…"
   },
   {
     "id": 4,
     "name": "기생충",
     "year": 2019,
     "director": "봉준호",
-    "poster": "http://img.cgv.co.kr/Movie/Thumbnail/Poster/000081/81774/81774_1000.jpg"
+    "poster": "http://img.cgv.co.kr/Movie/Thumbnail/Poster/000081/81774/81774_1000.jpg",
+    "description": "전원백수로 살 길 막막하지만 사이는 좋은 기택(송강호) 가족. 장남 기우(최우식)에게 명문대생 친구가 연결시켜 준 고액 과외 자리는 모처럼 싹튼 고정수입의 희망이다.…"
   }
 ]
